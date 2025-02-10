@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(230, 240, 245);
+}
+.container{
+    background-color: white;
+    margin: auto;
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px gray;
+    
+}
+.form-title{
+    box-sizing: border-box;
+
+} 
+h1{
+      font-size: 25px;
+      text-align: center;
+}
+.para{
+    text-align: center;
+    padding-top: 0%;
+    line-height: 0%;
+}
+
+.input1{
+    width: 215px;
+    height: 25px;
+}
+.dob{
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.calender{
+    margin-top: 0%;
+    padding-top: 5px;
+}
+
+ .cal{
+    width:32% ;
+    height:30px ;
+    box-sizing: border-box;
+    margin-top: 0%;
+}
+.gender{
+padding: 0%;
+}
+.gender .labelholder{
+    display: flex;
+   padding-left: 20px;
+    gap: 40px;
+}
+
+.pass>input{
+    margin-top: 5px;
+    height: 30px;
+    width: 99%;
+    box-sizing: border-box;
+    padding: 15px;
+    }
+
+.description>p{
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: left;
+    
+}
+.lastcontainer>button{
+    display: block;
+    color: white;
+    background-color: rgb(3, 151, 3);
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-style: none;
+    border-radius: 5px;
+    margin:auto;
+    
+}
+.lastcontainer>button:hover{
+    background: darkgreen;
+    cursor: pointer;
+}
+.lastcontainer>p{
+margin-top: 15px;
+    text-align: center;
+}
+
+.flexcontainer{
+   display:flex;
+}
