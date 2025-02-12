@@ -29,20 +29,10 @@ h1{
     width: 215px;
     height: 25px;
 }
-.dob{
-    margin-bottom: 0%;
-    padding-bottom: 0%;
-}
-.calender{
-    margin-top: 0%;
-    padding-top: 5px;
-}
-
- .cal{
-    width:32% ;
-    height:30px ;
-    box-sizing: border-box;
-    margin-top: 0%;
+.date{
+    width: 450px;
+    height: 30px;
+    text-align: center;
 }
 .gender{
 padding: 0%;
